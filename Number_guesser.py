@@ -1,8 +1,3 @@
-## Mini skaitli
-### Saturs
-### 1.speles kods ir python valodā
-### 2. šis ir kods
-```py
 import random
 import time
 import os
@@ -31,4 +26,3 @@ def main(): #definīcija ar kuras palīdzību var veidot loopus
     else:
         print("Paldies par spēli!") 
 main()
-```
