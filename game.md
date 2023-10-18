@@ -1,11 +1,10 @@
 ## Guessing game
 ### Saturs 
 
-#### 1. Aprakstītā spēle
-#### 2. Spēles kods
+#### 1. Spēles apraksts
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
 
-Spēles loģika ir labi aprakstīta sājā kodā:
+#### 2. Spēles kods
 ```py
 import random
 import time
